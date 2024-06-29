@@ -1,6 +1,7 @@
-flask
-flask_restful
-langchain
-langchain_google_genai
-dotenv
-google
+flask==3.0.3
+flask_restful==0.3.10
+langchain==0.2.6
+langchain-google-genai==1.0.7
+python-dotenv==1.0.1
+streamlit==1.36.0
+
