@@ -1,4 +1,4 @@
-# Chatbot-by-sai
+# Chatbot Application made by [Sai Nivedh](https://www.linkedin.com/in/sainivedhai/)
 <br>
 
 ## Take a moment to watch a demo video showcasing my project in action. 💡
